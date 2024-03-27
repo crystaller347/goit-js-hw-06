@@ -1,0 +1,1 @@
+Javascript homework №6
